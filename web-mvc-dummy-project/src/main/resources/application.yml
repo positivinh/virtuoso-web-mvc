@@ -1,0 +1,6 @@
+virtuoso:
+  web:
+    mvc:
+      problem-details:
+        exposed-context-keys:
+          - USERNAME
